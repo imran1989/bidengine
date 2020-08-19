@@ -1,0 +1,177 @@
+2020-08-17T06:09:47+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:23
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php(26): is_currentuser_bid(4)
+#1 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#3 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#4 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 23
+
+2020-08-17T06:11:58+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 39
+
+2020-08-17T06:21:15+00:00 CRITICAL Object of class stdClass could not be converted to string in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 23
+
+2020-08-17T06:21:46+00:00 CRITICAL Object of class stdClass could not be converted to string in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 25
+
+2020-08-17T06:22:02+00:00 CRITICAL Object of class stdClass could not be converted to string in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 25
+
+2020-08-17T06:22:22+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:25
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php(43): is_currentuser_bid(4)
+#1 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#3 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#4 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 25
+
+2020-08-17T06:22:40+00:00 CRITICAL syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 25
+
+2020-08-17T06:22:50+00:00 CRITICAL Uncaught Error: Call to undefined method stdClass::MIN() in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:25
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php(43): is_currentuser_bid(4)
+#1 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#3 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#4 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 25
+
+2020-08-17T06:23:29+00:00 CRITICAL Uncaught Error: Call to undefined method stdClass::MIN() in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:24
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php(42): is_currentuser_bid(4)
+#1 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#3 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#4 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 24
+
+2020-08-17T06:23:45+00:00 CRITICAL Uncaught Error: Call to undefined method stdClass::MIN() in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:24
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php(42): is_currentuser_bid(4)
+#1 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#3 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#4 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 24
+
+2020-08-17T06:24:44+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 24
+
+2020-08-17T06:37:31+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 24
+
+2020-08-17T06:46:14+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 24
+
+2020-08-17T06:48:18+00:00 CRITICAL Uncaught Error: Call to a member function MIN() on array in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:24
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php(42): is_currentuser_bid(4)
+#1 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#3 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#4 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 24
+
+2020-08-17T06:50:46+00:00 CRITICAL Uncaught Error: Call to a member function MIN() on array in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:24
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php(49): is_currentuser_bid(4)
+#1 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#3 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#4 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 24
+
+2020-08-17T06:51:02+00:00 CRITICAL Uncaught Error: Call to a member function MIN() on array in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:26
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php(49): is_currentuser_bid(4)
+#1 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#3 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#4 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 26
+
+2020-08-17T13:49:58+00:00 CRITICAL Uncaught Error: Call to a member function query() on null in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:13
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php(22): get_records()
+#1 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#3 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#4 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 13
+
+2020-08-17T13:50:21+00:00 CRITICAL Uncaught Error: Call to a member function fetch_assoc() on integer in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:17
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php(24): get_records()
+#1 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#3 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#4 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 17
+
+2020-08-17T13:50:44+00:00 CRITICAL require_once(): Failed opening required '../../../wp-config.php' (include_path='.:') in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 13
+
+2020-08-17T13:51:14+00:00 CRITICAL require_once(): Failed opening required '../../wp-config.php' (include_path='.:') in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 13
+
+2020-08-17T13:51:36+00:00 CRITICAL require_once(): Failed opening required '../../../wp-config.php' (include_path='.:') in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 13
+
+2020-08-17T13:51:53+00:00 CRITICAL require_once(): Failed opening required '../../../wp-config.php' (include_path='.:') in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 7
+
+2020-08-17T13:52:03+00:00 CRITICAL Uncaught Error: Call to a member function fetch_assoc() on integer in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:19
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php(26): get_records()
+#1 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#3 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#4 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 19
+
+2020-08-17T13:53:38+00:00 CRITICAL Uncaught Error: Call to a member function fetch_array() on integer in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:19
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php(26): get_records()
+#1 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#3 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#4 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 19
+
+2020-08-17T13:55:01+00:00 CRITICAL Uncaught Error: Call to a member function fetch_array() on integer in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:26
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php(33): get_records()
+#1 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#3 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#4 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 26
+
+2020-08-17T13:55:20+00:00 CRITICAL Uncaught Error: Call to undefined function connectsql() in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:16
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php(33): get_records()
+#1 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#3 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#4 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 16
+
+2020-08-17T13:55:55+00:00 CRITICAL Uncaught Error: Call to a member function fetch_array() on array in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:28
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php(35): get_records()
+#1 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#3 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#4 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 28
+
+2020-08-17T13:56:24+00:00 CRITICAL Uncaught Error: Call to a member function fetch_array() on array in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:28
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php(35): get_records()
+#1 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#3 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#4 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 28
+
+2020-08-17T14:00:53+00:00 CRITICAL Uncaught Error: Call to a member function fetch_array() on null in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:28
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php(35): get_records()
+#1 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#3 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#4 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 28
+

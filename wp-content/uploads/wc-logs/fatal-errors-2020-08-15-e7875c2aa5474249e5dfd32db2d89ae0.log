@@ -1,0 +1,36 @@
+2020-08-15T09:44:25+00:00 CRITICAL Uncaught Exception: Invalid order item. in /Applications/AMPPS/www/www/bidengine/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-item-type-data-store.php:135
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-content/plugins/woocommerce/includes/data-stores/class-wc-order-item-product-data-store.php(34): Abstract_WC_Order_Item_Type_Data_Store->read(Object(WC_Order_Item_Product))
+#1 /Applications/AMPPS/www/www/bidengine/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): WC_Order_Item_Product_Data_Store->read(Object(WC_Order_Item_Product))
+#2 /Applications/AMPPS/www/www/bidengine/wp-content/plugins/woocommerce/includes/class-wc-order-item.php(74): WC_Data_Store->read(Object(WC_Order_Item_Product))
+#3 /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php(24): WC_Order_Item->__construct('35')
+#4 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include('/Applications/A...')
+#5 /Applications/AMPPS/www/www/bidengi in /Applications/AMPPS/www/www/bidengine/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-item-type-data-store.php on line 135
+
+2020-08-15T09:45:10+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Item::get_version() in /Applications/AMPPS/www/www/bidengine/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:124
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order_Item))
+#1 /Applications/AMPPS/www/www/bidengine/wp-content/plugins/woocommerce/includes/class-wc-order-item.php(74): WC_Data_Store->read(Object(WC_Order_Item))
+#2 /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php(24): WC_Order_Item->__construct('35')
+#3 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include('/Applications/A...')
+#4 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#5 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#6 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php on line 124
+
+2020-08-15T09:46:52+00:00 CRITICAL Uncaught Error: Call to a member function get_items() on boolean in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:26
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include()
+#1 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#3 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 26
+
+2020-08-15T09:47:55+00:00 CRITICAL Uncaught Error: Call to a member function get_data() on boolean in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:26
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include()
+#1 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#3 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 26
+

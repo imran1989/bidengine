@@ -1,0 +1,83 @@
+2020-08-19T01:01:37+05:30 CRITICAL Uncaught Error: Unsupported operand types in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:18
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include()
+#1 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#3 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 18
+
+2020-08-19T01:03:40+05:30 CRITICAL Uncaught Error: Unsupported operand types in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:19
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include()
+#1 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#3 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 19
+
+2020-08-19T01:03:52+05:30 CRITICAL Uncaught Error: Unsupported operand types in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:21
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include()
+#1 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#3 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 21
+
+2020-08-19T01:04:06+05:30 CRITICAL Uncaught Error: Unsupported operand types in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:21
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include()
+#1 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#3 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 21
+
+2020-08-19T01:04:44+05:30 CRITICAL Uncaught Error: Unsupported operand types in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:21
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include()
+#1 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#3 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 21
+
+2020-08-19T01:05:22+05:30 CRITICAL Uncaught Error: Unsupported operand types in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:25
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include()
+#1 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#3 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 25
+
+2020-08-19T01:05:30+05:30 CRITICAL Uncaught Error: Unsupported operand types in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:25
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include()
+#1 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#3 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 25
+
+2020-08-19T01:30:11+05:30 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:34
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php(45): select_winner(38)
+#1 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#3 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#4 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 34
+
+2020-08-19T01:58:22+05:30 CRITICAL Uncaught Error: Unsupported operand types in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php:77
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-includes/template-loader.php(106): include()
+#1 /Applications/AMPPS/www/www/bidengine/wp-blog-header.php(19): require_once('/Applications/A...')
+#2 /Applications/AMPPS/www/www/bidengine/index.php(17): require('/Applications/A...')
+#3 {main}
+  thrown in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 77
+
+2020-08-19T03:01:36+05:30 CRITICAL Uncaught Error: Call to a member function update_meta_data() on null in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/functions.php:835
+Stack trace:
+#0 /Applications/AMPPS/www/www/bidengine/wp-includes/class-wp-hook.php(287): add_end_bidtime(46)
+#1 /Applications/AMPPS/www/www/bidengine/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/AMPPS/www/www/bidengine/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/AMPPS/www/www/bidengine/wp-content/plugins/woocommerce/templates/checkout/thankyou.php(80): do_action('woocommerce_tha...', 46)
+#4 /Applications/AMPPS/www/www/bidengine/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include('/Applications/A...')
+#5 /Applications/AMPPS/www/www/bidengine/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#6 /Applications/AMPPS/www/www/bidengine/wp-content/plugins/woocommerce/includes/shortc in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/functions.php on line 835
+

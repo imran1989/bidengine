@@ -1,0 +1,16 @@
+2020-08-18T08:21:06+00:00 CRITICAL syntax error, unexpected ',' in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 282
+
+2020-08-18T19:58:47+00:00 CRITICAL syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 34
+
+2020-08-18T20:32:34+00:00 CRITICAL Object of class stdClass could not be converted to string in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/functions.php on line 885
+
+2020-08-18T20:51:30+00:00 CRITICAL syntax error, unexpected ')', expecting '{' in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/functions.php on line 890
+
+2020-08-18T21:38:49+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 247
+
+2020-08-18T21:39:05+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 247
+
+2020-08-18T21:39:31+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 247
+
+2020-08-18T21:40:41+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in /Applications/AMPPS/www/www/bidengine/wp-content/themes/twentytwenty/single-bid.php on line 248
+
